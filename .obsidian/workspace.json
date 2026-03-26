@@ -13,31 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Verification-Queue/!Verification-Queue.md",
+                "file": "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-Ch4.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!Verification-Queue"
+              "title": "2026-03-23-starkBelCantoHistory1999-Ch4.md"
             }
-          }
-        ]
-      },
-      {
-        "id": "1726566c3cc86863",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3b479b82b7aacb3a",
+            "id": "65979aee43edb8c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-TOC.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-23-starkBelCantoHistory1999-TOC.md"
+            }
+          },
+          {
+            "id": "e0cdf97597eaef06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-TOC.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-23-starkBelCantoHistory1999-TOC.md"
+            }
+          },
+          {
+            "id": "804c4c0c1087d908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-TOC.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-23-starkBelCantoHistory1999-TOC.md"
+            }
+          },
+          {
+            "id": "d22bee173686ea16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Project/PROJECT_FILE_v1.5.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROJECT_FILE_v1.5"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 440.5
   },
   "right": {
     "id": "fbdd750bc6ee9935",
@@ -197,36 +238,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "fedc07077df5bf51",
+  "active": "d22bee173686ea16",
   "lastOpenFiles": [
-    "00-Project/KIMI_AMENDMENT_SINGLESOURCE.md",
-    "00-Project/KIMI_AUGURE_FILTER.md",
-    "00-Project/KIMI_BRIEF_INGESTION.md",
-    "00-Project/KIMI_CLARIFICATION_DISPLAYHEADER.md",
-    "00-Project/KIMI_QUESTION_FILEFORMAT.md",
-    "00-Project/KIMI_RESPONSE_AUGURE_FOLLOWUP.md",
-    "00-Project/KIMI_RESPONSE_INGESTION.md",
-    "00-Project/PROJECT_FILE_v1.1.md",
-    "00-Project/PROJECT_FILE_v1.2.md",
-    "00-Project/PROJECT_FILE_v1.3.md",
     "00-Project/PROJECT_FILE_v1.4.md",
-    "00-Project/PROJECT_FILE.md",
-    "00-Project/STYLE_SHEET.md",
+    "00-Project/PROJECT_FILE_v1.5.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-TOC.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Introduction.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Preface.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch7.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch6.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch5.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch4.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch3.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch2.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch1.md",
+    "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-Preface.md",
+    "02-Reading-Notes/2026-03-25-starkBelCantoHistory1999-Ch6.md",
+    "02-Reading-Notes/2026-03-24-starkBelCantoHistory1999-TOC.md",
+    "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-Ch4.md",
+    "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-Introduction.md",
+    "02-Reading-Notes/2026-03-24-starkBelCantoHistory1999-Ch3.md",
+    "02-Reading-Notes/2026-03-24-starkBelCantoHistory1999-Ch2.md",
+    "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-Ch1.md",
+    "02-Reading-Notes/2026-03-24-starkBelCantoHistory1999-Ch7.md",
+    "02-Reading-Notes/2026-03-24-starkBelCantoHistory1999-Ch5.md",
+    "02-Reading-Notes/Untitled",
+    "02-Reading-Notes/assets/stark-ch1-fig1.1-fig1.2.png",
+    "02-Reading-Notes/assets/stark-ch1-fig1.3.png",
+    "02-Reading-Notes/assets",
+    "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-TOC.md.md",
+    "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-TOC.md/Untitled.md",
+    "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-TOC.md",
+    "04-Verification-Queue/!Verification-Queue.md",
     "00-Project/VoiceAtlas_Founding_Document.docx",
     "03-Atlas-Staging/VoiceAtlas_Founding_Document.docx",
-    "03-Atlas-Staging/STYLE_SHEET.md",
-    "03-Atlas-Staging/PROJECT_FILE.md",
-    "03-Atlas-Staging/PROJECT_FILE_v1.4.md",
-    "03-Atlas-Staging/PROJECT_FILE_v1.3.md",
-    "03-Atlas-Staging/PROJECT_FILE_v1.2.md",
-    "03-Atlas-Staging/PROJECT_FILE_v1.1.md",
-    "03-Atlas-Staging/KIMI_RESPONSE_INGESTION.md",
-    "03-Atlas-Staging/KIMI_RESPONSE_AUGURE_FOLLOWUP.md",
-    "03-Atlas-Staging/KIMI_QUESTION_FILEFORMAT.md",
-    "03-Atlas-Staging/KIMI_CLARIFICATION_DISPLAYHEADER.md",
-    "03-Atlas-Staging/KIMI_BRIEF_INGESTION.md",
-    "03-Atlas-Staging/KIMI_AUGURE_FILTER.md",
-    "03-Atlas-Staging/KIMI_AMENDMENT_SINGLESOURCE.md",
     "05-PDFs-Pending",
     "04-Verification-Queue",
     "03-Atlas-Staging",

@@ -289,7 +289,13 @@ For historical editions, V1 means verified against the digitized page image (Hat
 **Status:** V0
 **AtlasNode:** [Concept name, e.g., "Appoggio"]
 ```
+**Reading note YAML tag convention:**
 
+- Always include: `reading-note`, `V0`
+- Then add content topic keywords only — no chapter numbers, no author names, no book titles
+- Keywords should name the specific concepts discussed in that chapter (e.g., `appoggio`, `vibrato`, `registers`, `legato`)
+- The filename already carries the chapter number and citekey; do not duplicate that information in tags
+- The `session_log` field must appear as a markdown table in the document body, immediately after the closing `---` of the YAML frontmatter, not inside the YAML itself
 ### Verification and staging
 
 18. Add all V0 claims to `04-Verification-Queue/!Verification-Queue.md`
