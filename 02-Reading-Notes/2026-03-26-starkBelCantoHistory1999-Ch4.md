@@ -11,7 +11,7 @@ pages: 92-120
 tags:
   - breath-control
   - appoggio
-verification_status: V0
+verification_status: V1
 ---
 
 ## Session Log

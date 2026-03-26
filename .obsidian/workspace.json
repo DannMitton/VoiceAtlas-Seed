@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Project/PROJECT_FILE_v1.5.md",
-                "mode": "preview",
+                "file": "02-Reading-Notes/2026-03-26-fields1947training-Overview.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROJECT_FILE_v1.5"
+              "title": "2026-03-26-fields1947training-Overview"
             }
           }
         ],
@@ -240,18 +240,19 @@
   },
   "active": "d22bee173686ea16",
   "lastOpenFiles": [
-    "00-Project/PROJECT_FILE_v1.4.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch1.md",
+    "02-Reading-Notes/2026-03-26-fields1947training-Overview.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch4.md",
+    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch5.md",
     "00-Project/PROJECT_FILE_v1.5.md",
+    "00-Project/PROJECT_FILE_v1.4.md",
     "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-TOC.md",
     "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Introduction.md",
     "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Preface.md",
     "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch7.md",
     "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch6.md",
-    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch5.md",
-    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch4.md",
     "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch3.md",
     "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch2.md",
-    "02-Reading-Notes/2026-03-26-starkBelCantoHistory1999-Ch1.md",
     "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-Preface.md",
     "02-Reading-Notes/2026-03-25-starkBelCantoHistory1999-Ch6.md",
     "02-Reading-Notes/2026-03-24-starkBelCantoHistory1999-TOC.md",
@@ -269,7 +270,6 @@
     "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-TOC.md.md",
     "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-TOC.md/Untitled.md",
     "02-Reading-Notes/2026-03-23-starkBelCantoHistory1999-TOC.md",
-    "04-Verification-Queue/!Verification-Queue.md",
     "00-Project/VoiceAtlas_Founding_Document.docx",
     "03-Atlas-Staging/VoiceAtlas_Founding_Document.docx",
     "05-PDFs-Pending",

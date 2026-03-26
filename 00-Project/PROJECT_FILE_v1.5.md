@@ -414,29 +414,25 @@ Awaiting Kimi's clarification before finalising the file format standard.
 
 *Updated at the end of every working session.*
 
-**Last updated:** March 21, 2026 — Session 2
+**Last updated:** March 26, 2026 — Session 3
 
 **Completed this session:**
-- VoiceAtlas-Seed Obsidian vault created at `/Users/dannmitton/Documents/VoiceAtlas-Seed`
-- Six-folder structure created: `00-Project`, `01-Entries`, `02-Reading-Notes`, `03-Atlas-Staging`, `04-Verification-Queue`, `05-PDFs-Pending`
-- Zotero 8.0.4 confirmed installed
-- Better BibTeX plugin installed and enabled in Zotero
-- Zotero Integration plugin (v3.2.1, mgmeyers) installed and enabled in Obsidian; Note Import Location set to `02-Reading-Notes`
-- Zotero Connector installed in Chrome browser
-- Stark, *Bel Canto* imported to Zotero from WorldCat; citekey `starkBelCantoHistory1999` pinned; tagged `atlas-primary`
-- `!Verification-Queue.md` created in `04-Verification-Queue` with table structure
-- GitHub repository created: `github.com/DannMitton/VoiceAtlas-Seed` (public)
-- GitHub Desktop installed and connected to local vault
-- All founding documents copied into `00-Project`; `entry_appoggio.md` copied into `03-Atlas-Staging`
-- Initial commit pushed to GitHub: "Initial commit — founding documents and appoggio entry"
+
+- YAML formatting error diagnosed and resolved across all Stark reading notes: `session_log` moved from YAML frontmatter to a markdown table in the document body
+- Reading note YAML tag convention established and documented in Section 11
+- All ten Stark files corrected and replaced via Finder: TOC, Preface, Introduction, Ch1–Ch7
+- Ch6 extraction completed by Claude from RTF plain text (prior Kimi transcription superseded)
+- Ch7 extraction completed by Claude from RTF plain text (prior Kimi extraction in non-standard format superseded)
+- All files confirmed rendering cleanly in Obsidian Reading view
+- One verification flag active: F. Lamperti citation in Ch6 reads "1216, 14" — likely OCR error; verify against physical copy before staging
 
 **Files in vault as of this session:**
-- `00-Project`: PROJECT_FILE versions 1.1–1.5, STYLE_SHEET.md, FOUNDING_DOCUMENT.docx, all Kimi briefs and responses
+
+- `02-Reading-Notes`: TOC, Preface, Introduction, Ch1–Ch7 (all `starkBelCantoHistory1999`, all dated 2026-03-26)
 - `03-Atlas-Staging`: entry_appoggio.md
 - `04-Verification-Queue`: !Verification-Queue.md
 
-**Next session begins with:**
-Step 1: Open Stark's *Bel Canto*, Chapter 4. Begin attentive reading and extraction into a new reading note in `02-Reading-Notes`, following the ingestion pipeline (Section 11).
+**Next session begins with:** Step 1: V1 verification of Stark reading notes against the physical copy, beginning with Ch4 (_Appoggio_). Open the book, check each claim block against the page cited, update status from V0 to V1, and add to `!Verification-Queue.md`.
 
 ---
 
